@@ -54,7 +54,7 @@ au InsertLeave * match ExtraWhitespace /\s\+$/
 
 " color scheme
 set t_Co=256
-color wombat256mod
+color seoul256
 
 filetype off
 filetype plugin indent on
